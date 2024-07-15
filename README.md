@@ -22,8 +22,8 @@ Azure Web App Link: [Click Here](https://weatherjs.azurewebsites.net/)
 1. **Clone the repository:**
 
 ```bash
-  git clone https://github.com/arittASinha2003/WeatherJS.git
-  cd WeatherJS
+  git clone https://github.com/arittASinha2003/LiveWeather.git
+  cd LiveWeather
 ```
 
 2. **Install dependencies:**
@@ -56,7 +56,7 @@ Create a `.env` file in the root directory and add your OpenWeatherMap API Key a
 ## Folder Structure
 
 ```plaintext
-Weather/
+LiveWeather/
 ├── node_modules/
 ├── public/
 │   ├── index.html
