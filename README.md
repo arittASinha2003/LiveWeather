@@ -3,7 +3,7 @@
 
 This is a real-time weather application built using `Node.js`, `Express`, and the `OpenWeatherMap API`. It allows users to get current weather information by entering a city name.
 
-Azure Web App Link: [Click Here](https://weatherjs.azurewebsites.net/)
+Weather Web App Link: [Click Here](https://liveweather-mroa.onrender.com)
 
 ## Features
 
